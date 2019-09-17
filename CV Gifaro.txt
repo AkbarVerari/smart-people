@@ -1,0 +1,19 @@
+              Curriculum Vitae
+              
+==============< DATA PRIBADI >==================
+1. Nama Lengkap           : Gifaro Andyano Patra
+2. Tempat & Tanggal Lahir : Bandar Lampung, 05 September 2001
+3. Alamat                 : Jalan Sukardhi Hamdhani Palapa 1o E no.16, Bandar Lampung
+4. Jenis Kelamin          : Laki - Laki
+5. Agama                  : Islam
+6. No.HP                  : 0822223009798
+7. Email                  : andyanogifaro@student.telkomuniversity.ac.id
+==============< Pendidikan Formal >===============
+1. 2006 - 2012  : SDN 2 Labuhan Ratu Bandar Lampung
+2. 2012 - 2015  : SMP AL-Kautsar Bandar Lampung
+3. 2016 - 2019  : SMA AL-Kautsar Bandar Lampung
+4. 2019 - Now   : Telkom University
+==============< Pengalaman Organisasi >============
+1. Wakil Ketua Extrakulikuler
+2. Sekretaris RISMA
+===================================================
